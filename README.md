@@ -9,3 +9,6 @@ Here is an example of an output with the part 1 & 2 code: ![part1 2 ss](https://
 
 
 Here is an example of an output with the part 5 code:![part 5 ss](https://user-images.githubusercontent.com/113650373/205836351-a57cc550-853f-4c3d-b500-e3b6d336f985.png)
+
+
+I have done questions 3 and 4 on a word document that I will attach in the code. the "CS-303_Assignment_3_question_3__4.docx"
